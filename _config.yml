@@ -58,16 +58,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Renee Vo"
+  avatar : "/assets/images/PortfolioPFP.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/renee-vo-a3a1132a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
