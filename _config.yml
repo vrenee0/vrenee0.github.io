@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Renee Vo"
   avatar : "/assets/images/PortfolioPFP.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Pursuing a Bachelors Science degree in Computer Science with a concentration in Data Science & Analytics at Louisiana State University."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
