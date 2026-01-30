@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Renee Vo Portfolio Website
-email:"Renee.vo1000@gmail.com"
+email: "Renee.vo1000@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Pursuing a Bachelors Science degree in Computer Science with a concentration in Data Science & Analytics at Louisiana State University. 
 twitter_username: username
@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/renee-vo-a3a1132a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
