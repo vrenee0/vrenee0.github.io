@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to my Portfolio!"
 date: 2026-01-09T16:20:02-05:00
 categories:
 ---
