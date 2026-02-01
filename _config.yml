@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -73,6 +73,8 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+atom_feed:
+  hide: true
 footer:
   links:
   
@@ -85,6 +87,7 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
+    
 
 defaults:
   # _posts
