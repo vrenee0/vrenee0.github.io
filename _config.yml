@@ -13,6 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Website Light/Dark mode
+minimal_mistakes_skin: "default"
+enable_darkmode: true
+
 title: Renee Vo Portfolio Website
 email: "Renee.vo1000@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
