@@ -64,7 +64,7 @@ author:
     #   icon: "fas fa-fw fa-link"
       # url: "https://"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/renee-vo-a3a1132a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -77,7 +77,7 @@ footer:
   links:
   
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/renee-vo-a3a1132a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
