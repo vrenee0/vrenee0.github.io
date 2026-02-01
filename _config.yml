@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/PortfolioPFP.jpg"
   bio    : "Pursuing a Bachelors Science degree in Computer Science with a concentration in Data Science & Analytics at Louisiana State University."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+      # url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/renee-vo-a3a1132a1/"
@@ -94,10 +94,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      # read_time: true
+      # comments: true
+      # share: true
+      # related: true
   # _pages
   - scope:
       path: "_pages"
