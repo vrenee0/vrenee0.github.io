@@ -18,7 +18,7 @@
 minimal_mistakes_skin: "default"
 enable_darkmode: true
 
-title: Renee Vo Portfolio Website
+title: Portfolio Website
 email: "Renee.vo1000@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Pursuing a Bachelors Science degree in Computer Science with a concentration in Data Science & Analytics at Louisiana State University.  
@@ -62,7 +62,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Socials"
+  name   : "Renee Vo"
   avatar : "/assets/images/PortfolioPFP.jpg"
   bio  |  : "Pursuing a Bachelors Science degree in Computer Science with a concentration in Data Science & Analytics at Louisiana State University.  August  2023 - May 2027"
   links:
