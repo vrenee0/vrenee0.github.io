@@ -1,9 +1,23 @@
 ---
-title: "Interests"
+title: "Skills"
 last_modified_at: 2026-01-09T16:20:02-05:00
-excerpt: ""
+excerpt: "Technical and Social skills"
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+## Skills
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+### Technical Skills
+- Proficient in Microsoft Office, Outlook, and Teams  
+- Programming experience with Java, Python, and C#  
+- Web development experience with HTML and CSS  
+- Big Data fundamentals with experience using Hadoop  
+- Experience working on academic and personal coding projects  
+
+### Professional & Interpersonal Skills
+- Strong communication skills  
+- Team-oriented and collaborative  
+- Adaptable to new environments  
+- Empathetic listener with the ability to understand different perspectives  
+- Organized and detail-oriented  
+- Self-motivated with enthusiasm for continuous learning  
+- Open to feedback and constructive criticism  
