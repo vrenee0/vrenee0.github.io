@@ -2,7 +2,7 @@
 title: "Welcome to my Portfolio!"
 date: 2026-01-09T16:20:02-05:00
 categories:
-excerpt: "Learn More About Me"
+# excerpt: "Learn More About Me"
 ---
 ## About Me
 

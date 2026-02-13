@@ -1,7 +1,7 @@
 ---
 title: "Work Experience"
 last_modified_at: 2026-01-09T16:20:02-05:00
-excerpt: ""
+# excerpt: ""
 ---
 
 > ## Student It Worker	  
