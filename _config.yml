@@ -27,7 +27,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-copyright: "2026 Portfolio Website by Renee Vo. Powered by Jekull & Minimal Mistakes. Last updated 2/09/2026"
+copyright: "Portfolio Website by Renee Vo. Last updated 2/09/2026"
 
 # Build settings
 markdown: kramdown
