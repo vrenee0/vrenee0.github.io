@@ -1,9 +1,9 @@
 ---
 title: "Academic Involvement"
 last_modified_at: 2026-01-09T16:20:02-05:00
-excerpt: "Academics and Clubs"
+# excerpt: "Academics and Clubs"
 ---
-## Academic involvement
+## Clubs 
 
 I am an active member of the LSU Society of Asian Scientists and Engineers (SASE), a student run organization that supports students in STEM through technical, professional, and social development.
 
