@@ -4,8 +4,6 @@ last_modified_at: 2026-01-09T16:20:02-05:00
 excerpt: "Technical and Social skills"
 ---
 
-## Skills
-
 ### Technical Skills
 - Proficient in Microsoft Office, Outlook, and Teams  
 - Programming experience with Java, Python, and C#  
